@@ -1,0 +1,1502 @@
+# depslib dependency file v1.0
+1619532866 source:d:\projects\embitz\stand_stm32f103\spl\src\misc.c
+	"misc.h"
+
+1619532866 d:\projects\embitz\stand_stm32f103\spl\inc\misc.h
+	"stm32f10x.h"
+
+1619532866 d:\projects\embitz\stand_stm32f103\inc\stm32f10x.h
+	"core_cm3.h"
+	"system_stm32f10x.h"
+	<stdint.h>
+	"stm32f10x_conf.h"
+
+1619532866 d:\projects\embitz\stand_stm32f103\cmsis\core_cm3.h
+	<stdint.h>
+	<core_cmInstr.h>
+	<core_cmFunc.h>
+
+1619532866 d:\projects\embitz\stand_stm32f103\cmsis\core_cminstr.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1619532866 d:\projects\embitz\stand_stm32f103\cmsis\core_cmfunc.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1619532866 d:\projects\embitz\stand_stm32f103\inc\system_stm32f10x.h
+
+1619532866 d:\projects\embitz\stand_stm32f103\inc\stm32f10x_conf.h
+	"stm32f10x_adc.h"
+	"stm32f10x_bkp.h"
+	"stm32f10x_can.h"
+	"stm32f10x_cec.h"
+	"stm32f10x_crc.h"
+	"stm32f10x_dac.h"
+	"stm32f10x_dbgmcu.h"
+	"stm32f10x_dma.h"
+	"stm32f10x_exti.h"
+	"stm32f10x_flash.h"
+	"stm32f10x_fsmc.h"
+	"stm32f10x_gpio.h"
+	"stm32f10x_i2c.h"
+	"stm32f10x_iwdg.h"
+	"stm32f10x_pwr.h"
+	"stm32f10x_rcc.h"
+	"stm32f10x_rtc.h"
+	"stm32f10x_sdio.h"
+	"stm32f10x_spi.h"
+	"stm32f10x_tim.h"
+	"stm32f10x_usart.h"
+	"stm32f10x_wwdg.h"
+	"misc.h"
+
+1619532866 d:\projects\embitz\stand_stm32f103\spl\inc\stm32f10x_adc.h
+	"stm32f10x.h"
+
+1619532866 d:\projects\embitz\stand_stm32f103\spl\inc\stm32f10x_bkp.h
+	"stm32f10x.h"
+
+1619532866 d:\projects\embitz\stand_stm32f103\spl\inc\stm32f10x_can.h
+	"stm32f10x.h"
+
+1619532866 d:\projects\embitz\stand_stm32f103\spl\inc\stm32f10x_cec.h
+	"stm32f10x.h"
+
+1619532866 d:\projects\embitz\stand_stm32f103\spl\inc\stm32f10x_crc.h
+	"stm32f10x.h"
+
+1619532866 d:\projects\embitz\stand_stm32f103\spl\inc\stm32f10x_dac.h
+	"stm32f10x.h"
+
+1619532866 d:\projects\embitz\stand_stm32f103\spl\inc\stm32f10x_dbgmcu.h
+	"stm32f10x.h"
+
+1619532866 d:\projects\embitz\stand_stm32f103\spl\inc\stm32f10x_dma.h
+	"stm32f10x.h"
+
+1619532866 d:\projects\embitz\stand_stm32f103\spl\inc\stm32f10x_exti.h
+	"stm32f10x.h"
+
+1619532866 d:\projects\embitz\stand_stm32f103\spl\inc\stm32f10x_flash.h
+	"stm32f10x.h"
+
+1619532866 d:\projects\embitz\stand_stm32f103\spl\inc\stm32f10x_fsmc.h
+	"stm32f10x.h"
+
+1619532866 d:\projects\embitz\stand_stm32f103\spl\inc\stm32f10x_gpio.h
+	"stm32f10x.h"
+
+1619532866 d:\projects\embitz\stand_stm32f103\spl\inc\stm32f10x_i2c.h
+	"stm32f10x.h"
+
+1619532866 d:\projects\embitz\stand_stm32f103\spl\inc\stm32f10x_iwdg.h
+	"stm32f10x.h"
+
+1619532866 d:\projects\embitz\stand_stm32f103\spl\inc\stm32f10x_pwr.h
+	"stm32f10x.h"
+
+1619532866 d:\projects\embitz\stand_stm32f103\spl\inc\stm32f10x_rcc.h
+	"stm32f10x.h"
+
+1619532866 d:\projects\embitz\stand_stm32f103\spl\inc\stm32f10x_rtc.h
+	"stm32f10x.h"
+
+1619532866 d:\projects\embitz\stand_stm32f103\spl\inc\stm32f10x_sdio.h
+	"stm32f10x.h"
+
+1619532866 d:\projects\embitz\stand_stm32f103\spl\inc\stm32f10x_spi.h
+	"stm32f10x.h"
+
+1619532866 d:\projects\embitz\stand_stm32f103\spl\inc\stm32f10x_tim.h
+	"stm32f10x.h"
+
+1619532866 d:\projects\embitz\stand_stm32f103\spl\inc\stm32f10x_usart.h
+	"stm32f10x.h"
+
+1619532866 d:\projects\embitz\stand_stm32f103\spl\inc\stm32f10x_wwdg.h
+	"stm32f10x.h"
+
+1619532866 source:d:\projects\embitz\stand_stm32f103\spl\src\stm32f10x_adc.c
+	"stm32f10x_adc.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:d:\projects\embitz\stand_stm32f103\spl\src\stm32f10x_bkp.c
+	"stm32f10x_bkp.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:d:\projects\embitz\stand_stm32f103\spl\src\stm32f10x_can.c
+	"stm32f10x_can.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:d:\projects\embitz\stand_stm32f103\spl\src\stm32f10x_cec.c
+	"stm32f10x_cec.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:d:\projects\embitz\stand_stm32f103\spl\src\stm32f10x_crc.c
+	"stm32f10x_crc.h"
+
+1619532866 source:d:\projects\embitz\stand_stm32f103\spl\src\stm32f10x_dac.c
+	"stm32f10x_dac.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:d:\projects\embitz\stand_stm32f103\spl\src\stm32f10x_dbgmcu.c
+	"stm32f10x_dbgmcu.h"
+
+1619532866 source:d:\projects\embitz\stand_stm32f103\spl\src\stm32f10x_dma.c
+	"stm32f10x_dma.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:d:\projects\embitz\stand_stm32f103\spl\src\stm32f10x_exti.c
+	"stm32f10x_exti.h"
+
+1619532866 source:d:\projects\embitz\stand_stm32f103\spl\src\stm32f10x_flash.c
+	"stm32f10x_flash.h"
+
+1619532866 source:d:\projects\embitz\stand_stm32f103\spl\src\stm32f10x_fsmc.c
+	"stm32f10x_fsmc.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:d:\projects\embitz\stand_stm32f103\spl\src\stm32f10x_gpio.c
+	"stm32f10x_gpio.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:d:\projects\embitz\stand_stm32f103\spl\src\stm32f10x_i2c.c
+	"stm32f10x_i2c.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:d:\projects\embitz\stand_stm32f103\spl\src\stm32f10x_iwdg.c
+	"stm32f10x_iwdg.h"
+
+1619532866 source:d:\projects\embitz\stand_stm32f103\spl\src\stm32f10x_pwr.c
+	"stm32f10x_pwr.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:d:\projects\embitz\stand_stm32f103\spl\src\stm32f10x_rcc.c
+	"stm32f10x_rcc.h"
+
+1619532866 source:d:\projects\embitz\stand_stm32f103\spl\src\stm32f10x_rtc.c
+	"stm32f10x_rtc.h"
+
+1619532866 source:d:\projects\embitz\stand_stm32f103\spl\src\stm32f10x_sdio.c
+	"stm32f10x_sdio.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:d:\projects\embitz\stand_stm32f103\spl\src\stm32f10x_spi.c
+	"stm32f10x_spi.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:d:\projects\embitz\stand_stm32f103\spl\src\stm32f10x_tim.c
+	"stm32f10x_tim.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:d:\projects\embitz\stand_stm32f103\spl\src\stm32f10x_usart.c
+	"stm32f10x_usart.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:d:\projects\embitz\stand_stm32f103\spl\src\stm32f10x_wwdg.c
+	"stm32f10x_wwdg.h"
+	"stm32f10x_rcc.h"
+
+1619791905 source:d:\projects\embitz\stand_stm32f103\src\main.c
+	"allheaders.h"
+
+1619532866 source:d:\projects\embitz\stand_stm32f103\src\startup_stm32f10x_md.s
+
+1619532866 source:d:\projects\embitz\stand_stm32f103\src\system_stm32f10x.c
+	"stm32f10x.h"
+
+1619788015 d:\projects\embitz\stand_stm32f103\library\allheaders.h
+	<stm32f10x.h>
+	<stm32f10x_conf.h>
+	<stm32f10x_rcc.h>
+	<stdint.h>
+	<stdio.h>
+	<math.h>
+	"Pins.h"
+	"Board.h"
+	"Interrupts.h"
+	"regulator.h"
+	"medical.h"
+
+1619706912 d:\projects\embitz\stand_stm32f103\library\pins.h
+	"allheaders.h"
+
+1619539896 d:\projects\embitz\stand_stm32f103\stand\board.h
+	"allheaders.h"
+
+1619532866 source:h:\embitz\stand_stm32f103\spl\src\misc.c
+	"misc.h"
+
+1619532866 h:\embitz\stand_stm32f103\spl\inc\misc.h
+	"stm32f10x.h"
+
+1619532866 h:\embitz\stand_stm32f103\inc\stm32f10x.h
+	"core_cm3.h"
+	"system_stm32f10x.h"
+	<stdint.h>
+	"stm32f10x_conf.h"
+
+1619532866 h:\embitz\stand_stm32f103\cmsis\core_cm3.h
+	<stdint.h>
+	<core_cmInstr.h>
+	<core_cmFunc.h>
+
+1619532866 h:\embitz\stand_stm32f103\cmsis\core_cminstr.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1619532866 h:\embitz\stand_stm32f103\cmsis\core_cmfunc.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1619532866 h:\embitz\stand_stm32f103\inc\system_stm32f10x.h
+
+1619532866 h:\embitz\stand_stm32f103\inc\stm32f10x_conf.h
+	"stm32f10x_adc.h"
+	"stm32f10x_bkp.h"
+	"stm32f10x_can.h"
+	"stm32f10x_cec.h"
+	"stm32f10x_crc.h"
+	"stm32f10x_dac.h"
+	"stm32f10x_dbgmcu.h"
+	"stm32f10x_dma.h"
+	"stm32f10x_exti.h"
+	"stm32f10x_flash.h"
+	"stm32f10x_fsmc.h"
+	"stm32f10x_gpio.h"
+	"stm32f10x_i2c.h"
+	"stm32f10x_iwdg.h"
+	"stm32f10x_pwr.h"
+	"stm32f10x_rcc.h"
+	"stm32f10x_rtc.h"
+	"stm32f10x_sdio.h"
+	"stm32f10x_spi.h"
+	"stm32f10x_tim.h"
+	"stm32f10x_usart.h"
+	"stm32f10x_wwdg.h"
+	"misc.h"
+
+1619532866 h:\embitz\stand_stm32f103\spl\inc\stm32f10x_adc.h
+	"stm32f10x.h"
+
+1619532866 h:\embitz\stand_stm32f103\spl\inc\stm32f10x_bkp.h
+	"stm32f10x.h"
+
+1619532866 h:\embitz\stand_stm32f103\spl\inc\stm32f10x_can.h
+	"stm32f10x.h"
+
+1619532866 h:\embitz\stand_stm32f103\spl\inc\stm32f10x_cec.h
+	"stm32f10x.h"
+
+1619532866 h:\embitz\stand_stm32f103\spl\inc\stm32f10x_crc.h
+	"stm32f10x.h"
+
+1619532866 h:\embitz\stand_stm32f103\spl\inc\stm32f10x_dac.h
+	"stm32f10x.h"
+
+1619532866 h:\embitz\stand_stm32f103\spl\inc\stm32f10x_dbgmcu.h
+	"stm32f10x.h"
+
+1619532866 h:\embitz\stand_stm32f103\spl\inc\stm32f10x_dma.h
+	"stm32f10x.h"
+
+1619532866 h:\embitz\stand_stm32f103\spl\inc\stm32f10x_exti.h
+	"stm32f10x.h"
+
+1619532866 h:\embitz\stand_stm32f103\spl\inc\stm32f10x_flash.h
+	"stm32f10x.h"
+
+1619532866 h:\embitz\stand_stm32f103\spl\inc\stm32f10x_fsmc.h
+	"stm32f10x.h"
+
+1619532866 h:\embitz\stand_stm32f103\spl\inc\stm32f10x_gpio.h
+	"stm32f10x.h"
+
+1619532866 h:\embitz\stand_stm32f103\spl\inc\stm32f10x_i2c.h
+	"stm32f10x.h"
+
+1619532866 h:\embitz\stand_stm32f103\spl\inc\stm32f10x_iwdg.h
+	"stm32f10x.h"
+
+1619532866 h:\embitz\stand_stm32f103\spl\inc\stm32f10x_pwr.h
+	"stm32f10x.h"
+
+1619532866 h:\embitz\stand_stm32f103\spl\inc\stm32f10x_rcc.h
+	"stm32f10x.h"
+
+1619532866 h:\embitz\stand_stm32f103\spl\inc\stm32f10x_rtc.h
+	"stm32f10x.h"
+
+1619532866 h:\embitz\stand_stm32f103\spl\inc\stm32f10x_sdio.h
+	"stm32f10x.h"
+
+1619532866 h:\embitz\stand_stm32f103\spl\inc\stm32f10x_spi.h
+	"stm32f10x.h"
+
+1619532866 h:\embitz\stand_stm32f103\spl\inc\stm32f10x_tim.h
+	"stm32f10x.h"
+
+1619532866 h:\embitz\stand_stm32f103\spl\inc\stm32f10x_usart.h
+	"stm32f10x.h"
+
+1619532866 h:\embitz\stand_stm32f103\spl\inc\stm32f10x_wwdg.h
+	"stm32f10x.h"
+
+1619532866 source:h:\embitz\stand_stm32f103\spl\src\stm32f10x_adc.c
+	"stm32f10x_adc.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:h:\embitz\stand_stm32f103\spl\src\stm32f10x_bkp.c
+	"stm32f10x_bkp.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:h:\embitz\stand_stm32f103\spl\src\stm32f10x_can.c
+	"stm32f10x_can.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:h:\embitz\stand_stm32f103\spl\src\stm32f10x_cec.c
+	"stm32f10x_cec.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:h:\embitz\stand_stm32f103\spl\src\stm32f10x_crc.c
+	"stm32f10x_crc.h"
+
+1619532866 source:h:\embitz\stand_stm32f103\spl\src\stm32f10x_dac.c
+	"stm32f10x_dac.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:h:\embitz\stand_stm32f103\spl\src\stm32f10x_dbgmcu.c
+	"stm32f10x_dbgmcu.h"
+
+1619532866 source:h:\embitz\stand_stm32f103\spl\src\stm32f10x_dma.c
+	"stm32f10x_dma.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:h:\embitz\stand_stm32f103\spl\src\stm32f10x_exti.c
+	"stm32f10x_exti.h"
+
+1619532866 source:h:\embitz\stand_stm32f103\spl\src\stm32f10x_flash.c
+	"stm32f10x_flash.h"
+
+1619532866 source:h:\embitz\stand_stm32f103\spl\src\stm32f10x_fsmc.c
+	"stm32f10x_fsmc.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:h:\embitz\stand_stm32f103\spl\src\stm32f10x_gpio.c
+	"stm32f10x_gpio.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:h:\embitz\stand_stm32f103\spl\src\stm32f10x_i2c.c
+	"stm32f10x_i2c.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:h:\embitz\stand_stm32f103\spl\src\stm32f10x_iwdg.c
+	"stm32f10x_iwdg.h"
+
+1619532866 source:h:\embitz\stand_stm32f103\spl\src\stm32f10x_pwr.c
+	"stm32f10x_pwr.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:h:\embitz\stand_stm32f103\spl\src\stm32f10x_rcc.c
+	"stm32f10x_rcc.h"
+
+1619532866 source:h:\embitz\stand_stm32f103\spl\src\stm32f10x_rtc.c
+	"stm32f10x_rtc.h"
+
+1619532866 source:h:\embitz\stand_stm32f103\spl\src\stm32f10x_sdio.c
+	"stm32f10x_sdio.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:h:\embitz\stand_stm32f103\spl\src\stm32f10x_spi.c
+	"stm32f10x_spi.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:h:\embitz\stand_stm32f103\spl\src\stm32f10x_tim.c
+	"stm32f10x_tim.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:h:\embitz\stand_stm32f103\spl\src\stm32f10x_usart.c
+	"stm32f10x_usart.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:h:\embitz\stand_stm32f103\spl\src\stm32f10x_wwdg.c
+	"stm32f10x_wwdg.h"
+	"stm32f10x_rcc.h"
+
+1619791906 source:h:\embitz\stand_stm32f103\src\main.c
+	"allheaders.h"
+
+1619788016 h:\embitz\stand_stm32f103\library\allheaders.h
+	<stm32f10x.h>
+	<stm32f10x_conf.h>
+	<stm32f10x_rcc.h>
+	<stdint.h>
+	<stdio.h>
+	<math.h>
+	"Pins.h"
+	"Board.h"
+	"Interrupts.h"
+	"regulator.h"
+	"medical.h"
+
+1620039024 h:\embitz\stand_stm32f103\library\pins.h
+	"allheaders.h"
+
+1619646582 h:\embitz\stand_stm32f103\stand\board.h
+	"allheaders.h"
+
+1619532866 source:h:\embitz\stand_stm32f103\src\startup_stm32f10x_md.s
+
+1619532866 source:h:\embitz\stand_stm32f103\src\system_stm32f10x.c
+	"stm32f10x.h"
+
+1619532866 source:f:\embitz\stand_stm32f103\spl\src\misc.c
+	"misc.h"
+
+1619532866 f:\embitz\stand_stm32f103\spl\inc\misc.h
+	"stm32f10x.h"
+
+1619532866 f:\embitz\stand_stm32f103\inc\stm32f10x.h
+	"core_cm3.h"
+	"system_stm32f10x.h"
+	<stdint.h>
+	"stm32f10x_conf.h"
+
+1619532866 f:\embitz\stand_stm32f103\cmsis\core_cm3.h
+	<stdint.h>
+	<core_cmInstr.h>
+	<core_cmFunc.h>
+
+1619532866 f:\embitz\stand_stm32f103\cmsis\core_cminstr.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1619532866 f:\embitz\stand_stm32f103\cmsis\core_cmfunc.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1619532866 f:\embitz\stand_stm32f103\inc\system_stm32f10x.h
+
+1619532866 f:\embitz\stand_stm32f103\inc\stm32f10x_conf.h
+	"stm32f10x_adc.h"
+	"stm32f10x_bkp.h"
+	"stm32f10x_can.h"
+	"stm32f10x_cec.h"
+	"stm32f10x_crc.h"
+	"stm32f10x_dac.h"
+	"stm32f10x_dbgmcu.h"
+	"stm32f10x_dma.h"
+	"stm32f10x_exti.h"
+	"stm32f10x_flash.h"
+	"stm32f10x_fsmc.h"
+	"stm32f10x_gpio.h"
+	"stm32f10x_i2c.h"
+	"stm32f10x_iwdg.h"
+	"stm32f10x_pwr.h"
+	"stm32f10x_rcc.h"
+	"stm32f10x_rtc.h"
+	"stm32f10x_sdio.h"
+	"stm32f10x_spi.h"
+	"stm32f10x_tim.h"
+	"stm32f10x_usart.h"
+	"stm32f10x_wwdg.h"
+	"misc.h"
+
+1619532866 f:\embitz\stand_stm32f103\spl\inc\stm32f10x_adc.h
+	"stm32f10x.h"
+
+1619532866 f:\embitz\stand_stm32f103\spl\inc\stm32f10x_bkp.h
+	"stm32f10x.h"
+
+1619532866 f:\embitz\stand_stm32f103\spl\inc\stm32f10x_can.h
+	"stm32f10x.h"
+
+1619532866 f:\embitz\stand_stm32f103\spl\inc\stm32f10x_cec.h
+	"stm32f10x.h"
+
+1619532866 f:\embitz\stand_stm32f103\spl\inc\stm32f10x_crc.h
+	"stm32f10x.h"
+
+1619532866 f:\embitz\stand_stm32f103\spl\inc\stm32f10x_dac.h
+	"stm32f10x.h"
+
+1619532866 f:\embitz\stand_stm32f103\spl\inc\stm32f10x_dbgmcu.h
+	"stm32f10x.h"
+
+1619532866 f:\embitz\stand_stm32f103\spl\inc\stm32f10x_dma.h
+	"stm32f10x.h"
+
+1619532866 f:\embitz\stand_stm32f103\spl\inc\stm32f10x_exti.h
+	"stm32f10x.h"
+
+1619532866 f:\embitz\stand_stm32f103\spl\inc\stm32f10x_flash.h
+	"stm32f10x.h"
+
+1619532866 f:\embitz\stand_stm32f103\spl\inc\stm32f10x_fsmc.h
+	"stm32f10x.h"
+
+1619532866 f:\embitz\stand_stm32f103\spl\inc\stm32f10x_gpio.h
+	"stm32f10x.h"
+
+1619532866 f:\embitz\stand_stm32f103\spl\inc\stm32f10x_i2c.h
+	"stm32f10x.h"
+
+1619532866 f:\embitz\stand_stm32f103\spl\inc\stm32f10x_iwdg.h
+	"stm32f10x.h"
+
+1619532866 f:\embitz\stand_stm32f103\spl\inc\stm32f10x_pwr.h
+	"stm32f10x.h"
+
+1619532866 f:\embitz\stand_stm32f103\spl\inc\stm32f10x_rcc.h
+	"stm32f10x.h"
+
+1619532866 f:\embitz\stand_stm32f103\spl\inc\stm32f10x_rtc.h
+	"stm32f10x.h"
+
+1619532866 f:\embitz\stand_stm32f103\spl\inc\stm32f10x_sdio.h
+	"stm32f10x.h"
+
+1619532866 f:\embitz\stand_stm32f103\spl\inc\stm32f10x_spi.h
+	"stm32f10x.h"
+
+1619532866 f:\embitz\stand_stm32f103\spl\inc\stm32f10x_tim.h
+	"stm32f10x.h"
+
+1619532866 f:\embitz\stand_stm32f103\spl\inc\stm32f10x_usart.h
+	"stm32f10x.h"
+
+1619532866 f:\embitz\stand_stm32f103\spl\inc\stm32f10x_wwdg.h
+	"stm32f10x.h"
+
+1619532866 source:f:\embitz\stand_stm32f103\spl\src\stm32f10x_adc.c
+	"stm32f10x_adc.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:f:\embitz\stand_stm32f103\spl\src\stm32f10x_bkp.c
+	"stm32f10x_bkp.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:f:\embitz\stand_stm32f103\spl\src\stm32f10x_can.c
+	"stm32f10x_can.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:f:\embitz\stand_stm32f103\spl\src\stm32f10x_cec.c
+	"stm32f10x_cec.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:f:\embitz\stand_stm32f103\spl\src\stm32f10x_crc.c
+	"stm32f10x_crc.h"
+
+1619532866 source:f:\embitz\stand_stm32f103\spl\src\stm32f10x_dac.c
+	"stm32f10x_dac.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:f:\embitz\stand_stm32f103\spl\src\stm32f10x_dbgmcu.c
+	"stm32f10x_dbgmcu.h"
+
+1619532866 source:f:\embitz\stand_stm32f103\spl\src\stm32f10x_dma.c
+	"stm32f10x_dma.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:f:\embitz\stand_stm32f103\spl\src\stm32f10x_exti.c
+	"stm32f10x_exti.h"
+
+1619532866 source:f:\embitz\stand_stm32f103\spl\src\stm32f10x_flash.c
+	"stm32f10x_flash.h"
+
+1619532866 source:f:\embitz\stand_stm32f103\spl\src\stm32f10x_fsmc.c
+	"stm32f10x_fsmc.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:f:\embitz\stand_stm32f103\spl\src\stm32f10x_gpio.c
+	"stm32f10x_gpio.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:f:\embitz\stand_stm32f103\spl\src\stm32f10x_i2c.c
+	"stm32f10x_i2c.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:f:\embitz\stand_stm32f103\spl\src\stm32f10x_iwdg.c
+	"stm32f10x_iwdg.h"
+
+1619532866 source:f:\embitz\stand_stm32f103\spl\src\stm32f10x_pwr.c
+	"stm32f10x_pwr.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:f:\embitz\stand_stm32f103\spl\src\stm32f10x_rcc.c
+	"stm32f10x_rcc.h"
+
+1619532866 source:f:\embitz\stand_stm32f103\spl\src\stm32f10x_rtc.c
+	"stm32f10x_rtc.h"
+
+1619532866 source:f:\embitz\stand_stm32f103\spl\src\stm32f10x_sdio.c
+	"stm32f10x_sdio.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:f:\embitz\stand_stm32f103\spl\src\stm32f10x_spi.c
+	"stm32f10x_spi.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:f:\embitz\stand_stm32f103\spl\src\stm32f10x_tim.c
+	"stm32f10x_tim.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:f:\embitz\stand_stm32f103\spl\src\stm32f10x_usart.c
+	"stm32f10x_usart.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:f:\embitz\stand_stm32f103\spl\src\stm32f10x_wwdg.c
+	"stm32f10x_wwdg.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:f:\embitz\stand_stm32f103\src\startup_stm32f10x_md.s
+
+1619532866 source:f:\embitz\stand_stm32f103\src\system_stm32f10x.c
+	"stm32f10x.h"
+
+1619696386 source:f:\embitz\stand_stm32f103\src\main.c
+	<stm32f10x.h>
+	"allheaders.h"
+
+1619694598 f:\embitz\stand_stm32f103\stand\board.h
+
+1619646716 f:\embitz\stand_stm32f103\library\allheaders.h
+	<stm32f10x.h>
+	<stm32f10x_conf.h>
+	<stdint.h>
+	<stm32f10x_rcc.h>
+	"Pins.h"
+	"Board.h"
+
+1619693160 f:\embitz\stand_stm32f103\library\pins.h
+	"stm32f10x_conf.h"
+	"stm32f10x.h"
+
+1619646716 f:\embitz\stand_stm32f103\inc\allheaders.h
+	<stm32f10x.h>
+	<stm32f10x_conf.h>
+	<stdint.h>
+	<stm32f10x_rcc.h>
+	"Pins.h"
+	"Board.h"
+
+1619696468 f:\embitz\stand_stm32f103\inc\pins.h
+	"allheaders.h"
+
+1619696620 f:\embitz\stand_stm32f103\inc\board.h
+	"allheaders.h"
+
+1619702884 d:\projects\embitz\stand_stm32f103\inc\board.h
+	"allheaders.h"
+
+1619706912 d:\projects\embitz\stand_stm32f103\inc\pins.h
+	"allheaders.h"
+
+1619712138 d:\projects\embitz\stand_stm32f103\inc\allheaders.h
+	<stm32f10x.h>
+	<stm32f10x_conf.h>
+	<stm32f10x_rcc.h>
+	<stdint.h>
+	"Pins.h"
+	"Board.h"
+	"Interrupts.h"
+
+1619712110 source:d:\projects\embitz\stand_stm32f103\src\interrupts.c
+	"Interrupts.h"
+
+1619710749 d:\projects\embitz\stand_stm32f103\src\interrupts.h
+	"allheaders.h"
+
+1619711684 source:d:\projects\embitz\stand_stm32f103\src\board.c
+	"Board.h"
+
+1619783143 source:d:\projects\embitz\stand_stm32f103\library\board.c
+	"Board.h"
+
+1619702884 d:\projects\embitz\stand_stm32f103\library\board.h
+	"allheaders.h"
+
+1619790817 d:\projects\embitz\stand_stm32f103\library\interrupts.h
+	"allheaders.h"
+
+1619791143 d:\projects\embitz\stand_stm32f103\stand\regulator.h
+	"allheaders.h"
+
+1619782817 d:\projects\embitz\stand_stm32f103\stand\medical.h
+	"allheaders.h"
+
+1619792016 source:d:\projects\embitz\stand_stm32f103\stand\regulator.c
+	"regulator.h"
+
+1619782623 source:d:\projects\embitz\stand_stm32f103\stand\medical.c
+	"medical.h"
+
+1619791527 source:d:\projects\embitz\stand_stm32f103\library\interrupts.c
+	"Interrupts.h"
+
+1619791528 source:h:\embitz\stand_stm32f103\library\interrupts.c
+	"Interrupts.h"
+
+1619790818 h:\embitz\stand_stm32f103\library\interrupts.h
+	"allheaders.h"
+
+1619702886 h:\embitz\stand_stm32f103\library\board.h
+	"allheaders.h"
+
+1619791144 h:\embitz\stand_stm32f103\stand\regulator.h
+	"allheaders.h"
+
+1619782818 h:\embitz\stand_stm32f103\stand\medical.h
+	"allheaders.h"
+
+1619782624 source:h:\embitz\stand_stm32f103\stand\medical.c
+	"medical.h"
+
+1619795634 source:h:\embitz\stand_stm32f103\stand\regulator.c
+	"regulator.h"
+
+1620032482 source:h:\embitz\stand_stm32f103\library\board.c
+	"Board.h"
+
+1620032482 source:e:\embitz\stand_stm32f103\library\board.c
+	"Board.h"
+
+1619702886 e:\embitz\stand_stm32f103\library\board.h
+	"allheaders.h"
+
+1619788016 e:\embitz\stand_stm32f103\library\allheaders.h
+	<stm32f10x.h>
+	<stm32f10x_conf.h>
+	<stm32f10x_rcc.h>
+	<stdint.h>
+	<stdio.h>
+	<math.h>
+	"Pins.h"
+	"Board.h"
+	"Interrupts.h"
+	"regulator.h"
+	"medical.h"
+
+1619532866 e:\embitz\stand_stm32f103\inc\stm32f10x.h
+	"core_cm3.h"
+	"system_stm32f10x.h"
+	<stdint.h>
+	"stm32f10x_conf.h"
+
+1619532866 e:\embitz\stand_stm32f103\cmsis\core_cm3.h
+	<stdint.h>
+	<core_cmInstr.h>
+	<core_cmFunc.h>
+
+1619532866 e:\embitz\stand_stm32f103\cmsis\core_cminstr.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1619532866 e:\embitz\stand_stm32f103\cmsis\core_cmfunc.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1619532866 e:\embitz\stand_stm32f103\inc\system_stm32f10x.h
+
+1619532866 e:\embitz\stand_stm32f103\inc\stm32f10x_conf.h
+	"stm32f10x_adc.h"
+	"stm32f10x_bkp.h"
+	"stm32f10x_can.h"
+	"stm32f10x_cec.h"
+	"stm32f10x_crc.h"
+	"stm32f10x_dac.h"
+	"stm32f10x_dbgmcu.h"
+	"stm32f10x_dma.h"
+	"stm32f10x_exti.h"
+	"stm32f10x_flash.h"
+	"stm32f10x_fsmc.h"
+	"stm32f10x_gpio.h"
+	"stm32f10x_i2c.h"
+	"stm32f10x_iwdg.h"
+	"stm32f10x_pwr.h"
+	"stm32f10x_rcc.h"
+	"stm32f10x_rtc.h"
+	"stm32f10x_sdio.h"
+	"stm32f10x_spi.h"
+	"stm32f10x_tim.h"
+	"stm32f10x_usart.h"
+	"stm32f10x_wwdg.h"
+	"misc.h"
+
+1619532866 e:\embitz\stand_stm32f103\spl\inc\stm32f10x_adc.h
+	"stm32f10x.h"
+
+1619532866 e:\embitz\stand_stm32f103\spl\inc\stm32f10x_bkp.h
+	"stm32f10x.h"
+
+1619532866 e:\embitz\stand_stm32f103\spl\inc\stm32f10x_can.h
+	"stm32f10x.h"
+
+1619532866 e:\embitz\stand_stm32f103\spl\inc\stm32f10x_cec.h
+	"stm32f10x.h"
+
+1619532866 e:\embitz\stand_stm32f103\spl\inc\stm32f10x_crc.h
+	"stm32f10x.h"
+
+1619532866 e:\embitz\stand_stm32f103\spl\inc\stm32f10x_dac.h
+	"stm32f10x.h"
+
+1619532866 e:\embitz\stand_stm32f103\spl\inc\stm32f10x_dbgmcu.h
+	"stm32f10x.h"
+
+1619532866 e:\embitz\stand_stm32f103\spl\inc\stm32f10x_dma.h
+	"stm32f10x.h"
+
+1619532866 e:\embitz\stand_stm32f103\spl\inc\stm32f10x_exti.h
+	"stm32f10x.h"
+
+1619532866 e:\embitz\stand_stm32f103\spl\inc\stm32f10x_flash.h
+	"stm32f10x.h"
+
+1619532866 e:\embitz\stand_stm32f103\spl\inc\stm32f10x_fsmc.h
+	"stm32f10x.h"
+
+1619532866 e:\embitz\stand_stm32f103\spl\inc\stm32f10x_gpio.h
+	"stm32f10x.h"
+
+1619532866 e:\embitz\stand_stm32f103\spl\inc\stm32f10x_i2c.h
+	"stm32f10x.h"
+
+1619532866 e:\embitz\stand_stm32f103\spl\inc\stm32f10x_iwdg.h
+	"stm32f10x.h"
+
+1619532866 e:\embitz\stand_stm32f103\spl\inc\stm32f10x_pwr.h
+	"stm32f10x.h"
+
+1619532866 e:\embitz\stand_stm32f103\spl\inc\stm32f10x_rcc.h
+	"stm32f10x.h"
+
+1619532866 e:\embitz\stand_stm32f103\spl\inc\stm32f10x_rtc.h
+	"stm32f10x.h"
+
+1619532866 e:\embitz\stand_stm32f103\spl\inc\stm32f10x_sdio.h
+	"stm32f10x.h"
+
+1619532866 e:\embitz\stand_stm32f103\spl\inc\stm32f10x_spi.h
+	"stm32f10x.h"
+
+1619532866 e:\embitz\stand_stm32f103\spl\inc\stm32f10x_tim.h
+	"stm32f10x.h"
+
+1619532866 e:\embitz\stand_stm32f103\spl\inc\stm32f10x_usart.h
+	"stm32f10x.h"
+
+1619532866 e:\embitz\stand_stm32f103\spl\inc\stm32f10x_wwdg.h
+	"stm32f10x.h"
+
+1619532866 e:\embitz\stand_stm32f103\spl\inc\misc.h
+	"stm32f10x.h"
+
+1624599432 e:\embitz\stand_stm32f103\library\pins.h
+	"allheaders.h"
+
+1619790818 e:\embitz\stand_stm32f103\library\interrupts.h
+	"allheaders.h"
+
+1619791144 e:\embitz\stand_stm32f103\stand\regulator.h
+	"allheaders.h"
+
+1624558272 e:\embitz\stand_stm32f103\stand\medical.h
+	"allheaders.h"
+
+1619532866 source:e:\embitz\stand_stm32f103\spl\src\misc.c
+	"misc.h"
+
+1619532866 source:e:\embitz\stand_stm32f103\spl\src\stm32f10x_adc.c
+	"stm32f10x_adc.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:e:\embitz\stand_stm32f103\spl\src\stm32f10x_bkp.c
+	"stm32f10x_bkp.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:e:\embitz\stand_stm32f103\spl\src\stm32f10x_can.c
+	"stm32f10x_can.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:e:\embitz\stand_stm32f103\spl\src\stm32f10x_cec.c
+	"stm32f10x_cec.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:e:\embitz\stand_stm32f103\spl\src\stm32f10x_crc.c
+	"stm32f10x_crc.h"
+
+1619532866 source:e:\embitz\stand_stm32f103\spl\src\stm32f10x_dac.c
+	"stm32f10x_dac.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:e:\embitz\stand_stm32f103\spl\src\stm32f10x_dbgmcu.c
+	"stm32f10x_dbgmcu.h"
+
+1619532866 source:e:\embitz\stand_stm32f103\spl\src\stm32f10x_dma.c
+	"stm32f10x_dma.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:e:\embitz\stand_stm32f103\spl\src\stm32f10x_exti.c
+	"stm32f10x_exti.h"
+
+1619532866 source:e:\embitz\stand_stm32f103\spl\src\stm32f10x_flash.c
+	"stm32f10x_flash.h"
+
+1619532866 source:e:\embitz\stand_stm32f103\spl\src\stm32f10x_fsmc.c
+	"stm32f10x_fsmc.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:e:\embitz\stand_stm32f103\spl\src\stm32f10x_gpio.c
+	"stm32f10x_gpio.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:e:\embitz\stand_stm32f103\spl\src\stm32f10x_i2c.c
+	"stm32f10x_i2c.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:e:\embitz\stand_stm32f103\spl\src\stm32f10x_iwdg.c
+	"stm32f10x_iwdg.h"
+
+1619532866 source:e:\embitz\stand_stm32f103\spl\src\stm32f10x_pwr.c
+	"stm32f10x_pwr.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:e:\embitz\stand_stm32f103\spl\src\stm32f10x_rcc.c
+	"stm32f10x_rcc.h"
+
+1619532866 source:e:\embitz\stand_stm32f103\spl\src\stm32f10x_rtc.c
+	"stm32f10x_rtc.h"
+
+1619532866 source:e:\embitz\stand_stm32f103\spl\src\stm32f10x_sdio.c
+	"stm32f10x_sdio.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:e:\embitz\stand_stm32f103\spl\src\stm32f10x_spi.c
+	"stm32f10x_spi.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:e:\embitz\stand_stm32f103\spl\src\stm32f10x_tim.c
+	"stm32f10x_tim.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:e:\embitz\stand_stm32f103\spl\src\stm32f10x_usart.c
+	"stm32f10x_usart.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:e:\embitz\stand_stm32f103\spl\src\stm32f10x_wwdg.c
+	"stm32f10x_wwdg.h"
+	"stm32f10x_rcc.h"
+
+1624558184 source:e:\embitz\stand_stm32f103\src\main.c
+	"allheaders.h"
+
+1619532866 source:e:\embitz\stand_stm32f103\src\startup_stm32f10x_md.s
+
+1619532866 source:e:\embitz\stand_stm32f103\src\system_stm32f10x.c
+	"stm32f10x.h"
+
+1624573230 source:e:\embitz\stand_stm32f103\stand\medical.c
+	"medical.h"
+
+1619795634 source:e:\embitz\stand_stm32f103\stand\regulator.c
+	"regulator.h"
+
+1620032482 source:g:\embitz\stand_stm32f103\library\board.c
+	"Board.h"
+
+1619702886 g:\embitz\stand_stm32f103\library\board.h
+	"allheaders.h"
+
+1619788016 g:\embitz\stand_stm32f103\library\allheaders.h
+	<stm32f10x.h>
+	<stm32f10x_conf.h>
+	<stm32f10x_rcc.h>
+	<stdint.h>
+	<stdio.h>
+	<math.h>
+	"Pins.h"
+	"Board.h"
+	"Interrupts.h"
+	"regulator.h"
+	"medical.h"
+
+1619532866 g:\embitz\stand_stm32f103\inc\stm32f10x.h
+	"core_cm3.h"
+	"system_stm32f10x.h"
+	<stdint.h>
+	"stm32f10x_conf.h"
+
+1619532866 g:\embitz\stand_stm32f103\cmsis\core_cm3.h
+	<stdint.h>
+	<core_cmInstr.h>
+	<core_cmFunc.h>
+
+1619532866 g:\embitz\stand_stm32f103\cmsis\core_cminstr.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1619532866 g:\embitz\stand_stm32f103\cmsis\core_cmfunc.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1619532866 g:\embitz\stand_stm32f103\inc\system_stm32f10x.h
+
+1619532866 g:\embitz\stand_stm32f103\inc\stm32f10x_conf.h
+	"stm32f10x_adc.h"
+	"stm32f10x_bkp.h"
+	"stm32f10x_can.h"
+	"stm32f10x_cec.h"
+	"stm32f10x_crc.h"
+	"stm32f10x_dac.h"
+	"stm32f10x_dbgmcu.h"
+	"stm32f10x_dma.h"
+	"stm32f10x_exti.h"
+	"stm32f10x_flash.h"
+	"stm32f10x_fsmc.h"
+	"stm32f10x_gpio.h"
+	"stm32f10x_i2c.h"
+	"stm32f10x_iwdg.h"
+	"stm32f10x_pwr.h"
+	"stm32f10x_rcc.h"
+	"stm32f10x_rtc.h"
+	"stm32f10x_sdio.h"
+	"stm32f10x_spi.h"
+	"stm32f10x_tim.h"
+	"stm32f10x_usart.h"
+	"stm32f10x_wwdg.h"
+	"misc.h"
+
+1619532866 g:\embitz\stand_stm32f103\spl\inc\stm32f10x_adc.h
+	"stm32f10x.h"
+
+1619532866 g:\embitz\stand_stm32f103\spl\inc\stm32f10x_bkp.h
+	"stm32f10x.h"
+
+1619532866 g:\embitz\stand_stm32f103\spl\inc\stm32f10x_can.h
+	"stm32f10x.h"
+
+1619532866 g:\embitz\stand_stm32f103\spl\inc\stm32f10x_cec.h
+	"stm32f10x.h"
+
+1619532866 g:\embitz\stand_stm32f103\spl\inc\stm32f10x_crc.h
+	"stm32f10x.h"
+
+1619532866 g:\embitz\stand_stm32f103\spl\inc\stm32f10x_dac.h
+	"stm32f10x.h"
+
+1619532866 g:\embitz\stand_stm32f103\spl\inc\stm32f10x_dbgmcu.h
+	"stm32f10x.h"
+
+1619532866 g:\embitz\stand_stm32f103\spl\inc\stm32f10x_dma.h
+	"stm32f10x.h"
+
+1619532866 g:\embitz\stand_stm32f103\spl\inc\stm32f10x_exti.h
+	"stm32f10x.h"
+
+1619532866 g:\embitz\stand_stm32f103\spl\inc\stm32f10x_flash.h
+	"stm32f10x.h"
+
+1619532866 g:\embitz\stand_stm32f103\spl\inc\stm32f10x_fsmc.h
+	"stm32f10x.h"
+
+1619532866 g:\embitz\stand_stm32f103\spl\inc\stm32f10x_gpio.h
+	"stm32f10x.h"
+
+1619532866 g:\embitz\stand_stm32f103\spl\inc\stm32f10x_i2c.h
+	"stm32f10x.h"
+
+1619532866 g:\embitz\stand_stm32f103\spl\inc\stm32f10x_iwdg.h
+	"stm32f10x.h"
+
+1619532866 g:\embitz\stand_stm32f103\spl\inc\stm32f10x_pwr.h
+	"stm32f10x.h"
+
+1619532866 g:\embitz\stand_stm32f103\spl\inc\stm32f10x_rcc.h
+	"stm32f10x.h"
+
+1619532866 g:\embitz\stand_stm32f103\spl\inc\stm32f10x_rtc.h
+	"stm32f10x.h"
+
+1619532866 g:\embitz\stand_stm32f103\spl\inc\stm32f10x_sdio.h
+	"stm32f10x.h"
+
+1619532866 g:\embitz\stand_stm32f103\spl\inc\stm32f10x_spi.h
+	"stm32f10x.h"
+
+1619532866 g:\embitz\stand_stm32f103\spl\inc\stm32f10x_tim.h
+	"stm32f10x.h"
+
+1619532866 g:\embitz\stand_stm32f103\spl\inc\stm32f10x_usart.h
+	"stm32f10x.h"
+
+1619532866 g:\embitz\stand_stm32f103\spl\inc\stm32f10x_wwdg.h
+	"stm32f10x.h"
+
+1619532866 g:\embitz\stand_stm32f103\spl\inc\misc.h
+	"stm32f10x.h"
+
+1620039024 g:\embitz\stand_stm32f103\library\pins.h
+	"allheaders.h"
+
+1619790818 g:\embitz\stand_stm32f103\library\interrupts.h
+	"allheaders.h"
+
+1619791144 g:\embitz\stand_stm32f103\stand\regulator.h
+	"allheaders.h"
+
+1624558272 g:\embitz\stand_stm32f103\stand\medical.h
+	"allheaders.h"
+
+1623269720 source:g:\embitz\stand_stm32f103\library\interrupts.c
+	"Interrupts.h"
+
+1619532866 source:g:\embitz\stand_stm32f103\spl\src\misc.c
+	"misc.h"
+
+1619532866 source:g:\embitz\stand_stm32f103\spl\src\stm32f10x_adc.c
+	"stm32f10x_adc.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:g:\embitz\stand_stm32f103\spl\src\stm32f10x_bkp.c
+	"stm32f10x_bkp.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:g:\embitz\stand_stm32f103\spl\src\stm32f10x_can.c
+	"stm32f10x_can.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:g:\embitz\stand_stm32f103\spl\src\stm32f10x_cec.c
+	"stm32f10x_cec.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:g:\embitz\stand_stm32f103\spl\src\stm32f10x_crc.c
+	"stm32f10x_crc.h"
+
+1619532866 source:g:\embitz\stand_stm32f103\spl\src\stm32f10x_dac.c
+	"stm32f10x_dac.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:g:\embitz\stand_stm32f103\spl\src\stm32f10x_dbgmcu.c
+	"stm32f10x_dbgmcu.h"
+
+1619532866 source:g:\embitz\stand_stm32f103\spl\src\stm32f10x_dma.c
+	"stm32f10x_dma.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:g:\embitz\stand_stm32f103\spl\src\stm32f10x_exti.c
+	"stm32f10x_exti.h"
+
+1619532866 source:g:\embitz\stand_stm32f103\spl\src\stm32f10x_flash.c
+	"stm32f10x_flash.h"
+
+1619532866 source:g:\embitz\stand_stm32f103\spl\src\stm32f10x_fsmc.c
+	"stm32f10x_fsmc.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:g:\embitz\stand_stm32f103\spl\src\stm32f10x_gpio.c
+	"stm32f10x_gpio.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:g:\embitz\stand_stm32f103\spl\src\stm32f10x_i2c.c
+	"stm32f10x_i2c.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:g:\embitz\stand_stm32f103\spl\src\stm32f10x_iwdg.c
+	"stm32f10x_iwdg.h"
+
+1619532866 source:g:\embitz\stand_stm32f103\spl\src\stm32f10x_pwr.c
+	"stm32f10x_pwr.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:g:\embitz\stand_stm32f103\spl\src\stm32f10x_rcc.c
+	"stm32f10x_rcc.h"
+
+1619532866 source:g:\embitz\stand_stm32f103\spl\src\stm32f10x_rtc.c
+	"stm32f10x_rtc.h"
+
+1619532866 source:g:\embitz\stand_stm32f103\spl\src\stm32f10x_sdio.c
+	"stm32f10x_sdio.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:g:\embitz\stand_stm32f103\spl\src\stm32f10x_spi.c
+	"stm32f10x_spi.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:g:\embitz\stand_stm32f103\spl\src\stm32f10x_tim.c
+	"stm32f10x_tim.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:g:\embitz\stand_stm32f103\spl\src\stm32f10x_usart.c
+	"stm32f10x_usart.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:g:\embitz\stand_stm32f103\spl\src\stm32f10x_wwdg.c
+	"stm32f10x_wwdg.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:g:\embitz\stand_stm32f103\src\startup_stm32f10x_md.s
+
+1619532866 source:g:\embitz\stand_stm32f103\src\system_stm32f10x.c
+	"stm32f10x.h"
+
+1624558258 source:g:\embitz\stand_stm32f103\stand\medical.c
+	"medical.h"
+
+1619795634 source:g:\embitz\stand_stm32f103\stand\regulator.c
+	"regulator.h"
+
+1624558184 source:g:\embitz\stand_stm32f103\src\main.c
+	"allheaders.h"
+
+1623269720 source:e:\embitz\stand_stm32f103\library\interrupts.c
+	"Interrupts.h"
+
+1624601247 source:c:\users\caska\desktop\stand_stm32f103\library\board.c
+	"Board.h"
+
+1619702886 c:\users\caska\desktop\stand_stm32f103\library\board.h
+	"allheaders.h"
+
+1619788016 c:\users\caska\desktop\stand_stm32f103\library\allheaders.h
+	<stm32f10x.h>
+	<stm32f10x_conf.h>
+	<stm32f10x_rcc.h>
+	<stdint.h>
+	<stdio.h>
+	<math.h>
+	"Pins.h"
+	"Board.h"
+	"Interrupts.h"
+	"regulator.h"
+	"medical.h"
+
+1619532866 c:\users\caska\desktop\stand_stm32f103\inc\stm32f10x.h
+	"core_cm3.h"
+	"system_stm32f10x.h"
+	<stdint.h>
+	"stm32f10x_conf.h"
+
+1619532866 c:\users\caska\desktop\stand_stm32f103\cmsis\core_cm3.h
+	<stdint.h>
+	<core_cmInstr.h>
+	<core_cmFunc.h>
+
+1619532866 c:\users\caska\desktop\stand_stm32f103\cmsis\core_cminstr.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1619532866 c:\users\caska\desktop\stand_stm32f103\cmsis\core_cmfunc.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1619532866 c:\users\caska\desktop\stand_stm32f103\inc\system_stm32f10x.h
+
+1619532866 c:\users\caska\desktop\stand_stm32f103\inc\stm32f10x_conf.h
+	"stm32f10x_adc.h"
+	"stm32f10x_bkp.h"
+	"stm32f10x_can.h"
+	"stm32f10x_cec.h"
+	"stm32f10x_crc.h"
+	"stm32f10x_dac.h"
+	"stm32f10x_dbgmcu.h"
+	"stm32f10x_dma.h"
+	"stm32f10x_exti.h"
+	"stm32f10x_flash.h"
+	"stm32f10x_fsmc.h"
+	"stm32f10x_gpio.h"
+	"stm32f10x_i2c.h"
+	"stm32f10x_iwdg.h"
+	"stm32f10x_pwr.h"
+	"stm32f10x_rcc.h"
+	"stm32f10x_rtc.h"
+	"stm32f10x_sdio.h"
+	"stm32f10x_spi.h"
+	"stm32f10x_tim.h"
+	"stm32f10x_usart.h"
+	"stm32f10x_wwdg.h"
+	"misc.h"
+
+1619532866 c:\users\caska\desktop\stand_stm32f103\spl\inc\stm32f10x_adc.h
+	"stm32f10x.h"
+
+1619532866 c:\users\caska\desktop\stand_stm32f103\spl\inc\stm32f10x_bkp.h
+	"stm32f10x.h"
+
+1619532866 c:\users\caska\desktop\stand_stm32f103\spl\inc\stm32f10x_can.h
+	"stm32f10x.h"
+
+1619532866 c:\users\caska\desktop\stand_stm32f103\spl\inc\stm32f10x_cec.h
+	"stm32f10x.h"
+
+1619532866 c:\users\caska\desktop\stand_stm32f103\spl\inc\stm32f10x_crc.h
+	"stm32f10x.h"
+
+1619532866 c:\users\caska\desktop\stand_stm32f103\spl\inc\stm32f10x_dac.h
+	"stm32f10x.h"
+
+1619532866 c:\users\caska\desktop\stand_stm32f103\spl\inc\stm32f10x_dbgmcu.h
+	"stm32f10x.h"
+
+1619532866 c:\users\caska\desktop\stand_stm32f103\spl\inc\stm32f10x_dma.h
+	"stm32f10x.h"
+
+1619532866 c:\users\caska\desktop\stand_stm32f103\spl\inc\stm32f10x_exti.h
+	"stm32f10x.h"
+
+1619532866 c:\users\caska\desktop\stand_stm32f103\spl\inc\stm32f10x_flash.h
+	"stm32f10x.h"
+
+1619532866 c:\users\caska\desktop\stand_stm32f103\spl\inc\stm32f10x_fsmc.h
+	"stm32f10x.h"
+
+1619532866 c:\users\caska\desktop\stand_stm32f103\spl\inc\stm32f10x_gpio.h
+	"stm32f10x.h"
+
+1619532866 c:\users\caska\desktop\stand_stm32f103\spl\inc\stm32f10x_i2c.h
+	"stm32f10x.h"
+
+1619532866 c:\users\caska\desktop\stand_stm32f103\spl\inc\stm32f10x_iwdg.h
+	"stm32f10x.h"
+
+1619532866 c:\users\caska\desktop\stand_stm32f103\spl\inc\stm32f10x_pwr.h
+	"stm32f10x.h"
+
+1619532866 c:\users\caska\desktop\stand_stm32f103\spl\inc\stm32f10x_rcc.h
+	"stm32f10x.h"
+
+1619532866 c:\users\caska\desktop\stand_stm32f103\spl\inc\stm32f10x_rtc.h
+	"stm32f10x.h"
+
+1619532866 c:\users\caska\desktop\stand_stm32f103\spl\inc\stm32f10x_sdio.h
+	"stm32f10x.h"
+
+1619532866 c:\users\caska\desktop\stand_stm32f103\spl\inc\stm32f10x_spi.h
+	"stm32f10x.h"
+
+1619532866 c:\users\caska\desktop\stand_stm32f103\spl\inc\stm32f10x_tim.h
+	"stm32f10x.h"
+
+1619532866 c:\users\caska\desktop\stand_stm32f103\spl\inc\stm32f10x_usart.h
+	"stm32f10x.h"
+
+1619532866 c:\users\caska\desktop\stand_stm32f103\spl\inc\stm32f10x_wwdg.h
+	"stm32f10x.h"
+
+1619532866 c:\users\caska\desktop\stand_stm32f103\spl\inc\misc.h
+	"stm32f10x.h"
+
+1624601732 c:\users\caska\desktop\stand_stm32f103\library\pins.h
+	"allheaders.h"
+
+1619790818 c:\users\caska\desktop\stand_stm32f103\library\interrupts.h
+	"allheaders.h"
+
+1619791144 c:\users\caska\desktop\stand_stm32f103\stand\regulator.h
+	"allheaders.h"
+
+1624558272 c:\users\caska\desktop\stand_stm32f103\stand\medical.h
+	"allheaders.h"
+
+1623269720 source:c:\users\caska\desktop\stand_stm32f103\library\interrupts.c
+	"Interrupts.h"
+
+1619532866 source:c:\users\caska\desktop\stand_stm32f103\spl\src\misc.c
+	"misc.h"
+
+1619532866 source:c:\users\caska\desktop\stand_stm32f103\spl\src\stm32f10x_adc.c
+	"stm32f10x_adc.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:c:\users\caska\desktop\stand_stm32f103\spl\src\stm32f10x_bkp.c
+	"stm32f10x_bkp.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:c:\users\caska\desktop\stand_stm32f103\spl\src\stm32f10x_can.c
+	"stm32f10x_can.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:c:\users\caska\desktop\stand_stm32f103\spl\src\stm32f10x_cec.c
+	"stm32f10x_cec.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:c:\users\caska\desktop\stand_stm32f103\spl\src\stm32f10x_crc.c
+	"stm32f10x_crc.h"
+
+1619532866 source:c:\users\caska\desktop\stand_stm32f103\spl\src\stm32f10x_dac.c
+	"stm32f10x_dac.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:c:\users\caska\desktop\stand_stm32f103\spl\src\stm32f10x_dbgmcu.c
+	"stm32f10x_dbgmcu.h"
+
+1619532866 source:c:\users\caska\desktop\stand_stm32f103\spl\src\stm32f10x_dma.c
+	"stm32f10x_dma.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:c:\users\caska\desktop\stand_stm32f103\spl\src\stm32f10x_exti.c
+	"stm32f10x_exti.h"
+
+1619532866 source:c:\users\caska\desktop\stand_stm32f103\spl\src\stm32f10x_flash.c
+	"stm32f10x_flash.h"
+
+1619532866 source:c:\users\caska\desktop\stand_stm32f103\spl\src\stm32f10x_fsmc.c
+	"stm32f10x_fsmc.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:c:\users\caska\desktop\stand_stm32f103\spl\src\stm32f10x_gpio.c
+	"stm32f10x_gpio.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:c:\users\caska\desktop\stand_stm32f103\spl\src\stm32f10x_i2c.c
+	"stm32f10x_i2c.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:c:\users\caska\desktop\stand_stm32f103\spl\src\stm32f10x_iwdg.c
+	"stm32f10x_iwdg.h"
+
+1619532866 source:c:\users\caska\desktop\stand_stm32f103\spl\src\stm32f10x_pwr.c
+	"stm32f10x_pwr.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:c:\users\caska\desktop\stand_stm32f103\spl\src\stm32f10x_rcc.c
+	"stm32f10x_rcc.h"
+
+1619532866 source:c:\users\caska\desktop\stand_stm32f103\spl\src\stm32f10x_rtc.c
+	"stm32f10x_rtc.h"
+
+1619532866 source:c:\users\caska\desktop\stand_stm32f103\spl\src\stm32f10x_sdio.c
+	"stm32f10x_sdio.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:c:\users\caska\desktop\stand_stm32f103\spl\src\stm32f10x_spi.c
+	"stm32f10x_spi.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:c:\users\caska\desktop\stand_stm32f103\spl\src\stm32f10x_tim.c
+	"stm32f10x_tim.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:c:\users\caska\desktop\stand_stm32f103\spl\src\stm32f10x_usart.c
+	"stm32f10x_usart.h"
+	"stm32f10x_rcc.h"
+
+1619532866 source:c:\users\caska\desktop\stand_stm32f103\spl\src\stm32f10x_wwdg.c
+	"stm32f10x_wwdg.h"
+	"stm32f10x_rcc.h"
+
+1624558184 source:c:\users\caska\desktop\stand_stm32f103\src\main.c
+	"allheaders.h"
+
+1619532866 source:c:\users\caska\desktop\stand_stm32f103\src\startup_stm32f10x_md.s
+
+1619532866 source:c:\users\caska\desktop\stand_stm32f103\src\system_stm32f10x.c
+	"stm32f10x.h"
+
+1624600876 source:c:\users\caska\desktop\stand_stm32f103\stand\medical.c
+	"medical.h"
+
+1619795634 source:c:\users\caska\desktop\stand_stm32f103\stand\regulator.c
+	"regulator.h"
+
